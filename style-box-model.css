@@ -1,4 +1,23 @@
-.card-1 h1 {
-  color: red;
-  margin-left: 1.5in;
+.card-1 h1 .card-1 .card-front {
+  background-color: orange;
+  color: darkblue;
+}
+.card-1 .card-back {
+  background-color: purple;
+  color: yellow;
+}
+body {
+  text-align: center;
+}
+table {
+  margin: auto;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Playwrite US Trad", serif;
+  font-weight: 300;
 }
