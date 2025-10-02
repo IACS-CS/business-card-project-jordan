@@ -12,12 +12,7 @@ body {
 table {
   margin: auto;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1,h2,h3,h4,h5,h6 {
   font-family: "Playwrite US Trad", serif;
   font-weight: 300;
 }
